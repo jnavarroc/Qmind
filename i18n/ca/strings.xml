@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="welcome">Bienvenido a %s!</string>
+	<string name="close">Close</string>
+	<string name="login2brag">Log in to Brag!</string>
+	<string name="brag">Brag!</string>
+	<string name="pleasewait">please wait ...</string>
+	<string name="listbrags">List Brags</string>
+	<string name="login">Log in</string>
+	<string name="logout">Log out</string>
+	<string name="username">username</string>
+	<string name="password">password</string>
+	<string name="confirm">confirm</string>
+	<string name="createuser">Create Account</string>
+	<string name="messages">Messsages</string>
+	<string name="cancel">Cancel</string>
+	<string name="message">Ain't I grand? I caught </string>
+</resources>

@@ -1,0 +1,8 @@
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/ApplicationStylesheet.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/AssetCryptImpl.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/QmindActivity.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/QmindAppInfo.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/QmindApplication.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/com/dubsolutions/qmind/R.java"
+"/Users/javiernavarro/Documents/Workspace/Qmind/build/android/gen/ti/modules/titanium/ui/R.java"
